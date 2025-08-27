@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MinesweeperTool",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "justAfriend",
+	"CreatedByURL": "https://www.linkedin.com/in/michal-fried-5138b3226/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "MinesweeperTool",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
